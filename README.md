@@ -9,4 +9,4 @@
 
 <a href="https://github.com/Mqleaf/Notes/wiki/AngularJS-Phonecat-%E7%AC%94%E8%AE%B0">AngularJS Phonecat 笔记（更新中）</a>
 
-如果图片加载慢，请移步<a href="http://www.jianshu.com/users/e2327e64dcd5/latest_articles">简书</a>
+如果图片加载慢，影响阅读，可移步：<a href="http://www.jianshu.com/users/e2327e64dcd5/latest_articles">简书</a>
