@@ -2,7 +2,7 @@
 
 ###学习笔记
 
-<a href="http://www.jianshu.com/p/0045cd01e0be">JavaScript继承（图解笔记）</a>
+<a href="http://www.jianshu.com/p/0045cd01e0be" target="_blank">JavaScript继承（图解笔记）</a>
 
 <a href="http://www.jianshu.com/p/85220c95f3eb">AngularJS Phonecat （步骤0-步骤5）</a>
 
