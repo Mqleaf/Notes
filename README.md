@@ -26,4 +26,4 @@
 
 <a href="http://www.jianshu.com/p/a863a4956aca">为什么我弃质量进前端</a>
 
-更多文章，可参看：<a href="http://www.jianshu.com/users/e2327e64dcd5/latest_articles">简书</a>
+更多文章，可查看：<a href="http://www.jianshu.com/users/e2327e64dcd5/latest_articles">简书</a>
